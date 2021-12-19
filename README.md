@@ -1,4 +1,5 @@
 # Proiect : 24.Quote Manager integrat cu google translate api
+# Student: Dolofan Andrei gr 1149 ID
 
 ## I. Backend (NodeJS)
 ---
