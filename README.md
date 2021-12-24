@@ -40,3 +40,12 @@
 
 ## II. Frontend (ReactJS)
 
+<hr>
+
+**Dragomir Denis-Alexandru**: Am verificat partea de backend. Nu ai prezentat cazurile in care rutele puteau genera eroare. Foarte bine, in rest.
+
+Punctaj - backend: **1,3 / 1,5**
+
+Punctaj - frontend: **TBD**
+
+Punctaj total (pentru zonele necompletate, pana la evaluare, se ia in considerare punctajul maxim): **4,8 / 4**
