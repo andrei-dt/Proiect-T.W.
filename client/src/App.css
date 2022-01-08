@@ -1,0 +1,123 @@
+* {
+    box-sizing: border-box;
+}
+
+.App {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+}
+
+.App-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.App-content {
+    display: flex;
+    flex-direction: row;
+}
+
+.App-col {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding: 0 10px;
+}
+
+.App-col h6 {
+    font-size: calc(5px + 2vmin);
+    text-align: center;
+    color: #fff;
+    border-bottom: 1px solid #3b404b;
+}
+
+.quotes-list {
+    list-style: none;
+    padding: 0 10px;
+    margin: 0;
+    color: #fff;
+}
+
+.quote-item {
+    padding: 10px 15px;
+    border: 1px solid #3b404b;
+    border-radius: 3px;
+    margin-bottom: 5px;
+    position: relative;
+}
+
+.quote-text.active {
+    /* font-style: italic; */
+    cursor: pointer;
+}
+
+.quote-text.active:hover {
+    color: aqua;
+}
+
+.quote-author {
+    text-align: right;
+    margin-top: 10px;
+    font-style: italic;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.quote-actions {
+    display: none;
+    position: absolute;
+    bottom: 10px;
+    right: 5px;
+}
+
+.quote-item:hover>.quote-actions {
+    display: block;
+}
+
+.quote-translation-actions {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.quote-translation-actions .btn:last-of-type {
+    margin-right: 0;
+}
+
+.quote-input {
+    width: 100%;
+    outline: transparent;
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid #16191d;
+    margin-bottom: 5px;
+    padding: 10px;
+}
+
+.quote-input:focus {
+    border-color: aqua;
+}
+
+.btn {
+    background: #3b404b;
+    color: rgb(255, 255, 255);
+    border-radius: 3px;
+    margin-right: 2px;
+}
+
+.btn:hover {
+    background: #282c33;
+    color: rgb(255, 255, 255);
+}
+
+label {
+    color: #fff;
+}
