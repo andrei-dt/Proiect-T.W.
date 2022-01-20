@@ -49,3 +49,5 @@ Punctaj - frontend: **TBD**
 
 Punctaj total (pentru zonele necompletate, pana la evaluare, se ia in considerare punctajul maxim): **4,8 / 4**
 
+## Am incarcat in sectiunea " master" proiectul complet
+
