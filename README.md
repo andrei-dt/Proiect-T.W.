@@ -50,4 +50,5 @@ Punctaj - frontend: **TBD**
 Punctaj total (pentru zonele necompletate, pana la evaluare, se ia in considerare punctajul maxim): **4,8 / 4**
 
 ## Am incarcat in sectiunea " Branches/master" proiectul complet
+Toate instructiunile pt a rula le gasiti in "README(partea2)" atat in tag ul master cat si in main
 
