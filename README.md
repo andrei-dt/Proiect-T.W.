@@ -46,6 +46,4 @@ Punctaj - frontend: TBD
 
 Punctaj total (pentru zonele necompletate, pana la evaluare, se ia in considerare punctajul maxim): 4,8 / 4
 
-**Proiectul complet este in arhiva "1149_Dolofan_Andrei_Tibi.rar" cat si in in sectiunea " Branches/master"
-**Toate instructiunile pt a rula le gasiti in "README(partea2)" atat in tag ul master cat si in main
  
